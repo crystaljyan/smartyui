@@ -6,7 +6,7 @@
   },
   "include": [
       "./**/*.*",
-      "./shims-vue.d.ts",
+      "./shims-vue.d.ts", "test/i",
   ],
   "exclude": [
       "node_modules"
